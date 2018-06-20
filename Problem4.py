@@ -1,0 +1,4 @@
+#4COUNT THE NUMBER OF TIME AN OBJECT OCCURS IN A LIST
+l=[1,2,2,55,3,2,2,55,2,7,77,36]
+l.sort()
+print(l)
