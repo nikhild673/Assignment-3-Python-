@@ -2,6 +2,6 @@
 x=input("enter the value=")
 y=input("enter the value=")
 z=input("enter the value=")
-l=[x,y,z]
-print(l)
+n=[x,y,z]
+print(n)
 
